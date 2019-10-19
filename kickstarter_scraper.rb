@@ -15,4 +15,5 @@ end
 # location: project.css("span.location-name").text
 
 
+
 create_project_hash
